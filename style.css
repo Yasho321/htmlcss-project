@@ -1,0 +1,22 @@
+body{
+    background-color: #EEC373;
+}
+.sec{
+    background-color: #876445;
+    padding: 0;
+    margin: 0;
+}
+.but{
+    background-color: #CA965C;
+}
+@media (max-width:1110px) {
+    .ph{
+        display: block;
+    }
+    
+}
+.f{
+    text-align: center;
+    font-weight: bold ; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

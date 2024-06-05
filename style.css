@@ -1,5 +1,9 @@
 body{
     background-color: #EEC373;
+    font-weight: 500;
+}
+.intro{
+    font-weight:500;
 }
 .sec{
     background-color: #876445;

@@ -1,17 +1,17 @@
 body{
-    background-color: #EEC373;
+    background-color: #80B9AD;
     font-weight: 500;
 }
 .intro{
     font-weight:500;
 }
 .sec{
-    background-color: #876445;
+    background-color: #538392;
     padding: 0;
     margin: 0;
 }
 .but{
-    background-color: #CA965C;
+    background-color: #6295A2;
 }
 @media (max-width:1110px) {
     .ph{

@@ -17,6 +17,10 @@ body{
     .ph{
         display: block;
     }
+    .logophone{
+        height:70vw ;
+        width:70vw;
+    }
     
 }
 .f{
